@@ -1,0 +1,24 @@
+.submit-well {
+  background-color: #d3daff;
+  padding: 50px;
+}
+button {
+  margin: 0 50% 0 50%;
+}
+
+#contact-card{
+  display: none;
+}
+.col-md-2 {
+  background-color: #d3daff;
+  color: black;
+  opacity: 0.8;
+  box-shadow: 0 0 5px #10A39E;
+  display: block !important;
+  font-family: "Book Antiqua";
+  margin: 10px;
+  font-weight: bold;
+  font-size: 12px;
+  border: 1px solid black;
+  height: 250px;
+}
